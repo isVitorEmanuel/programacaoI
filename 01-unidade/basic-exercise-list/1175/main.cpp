@@ -9,11 +9,10 @@ int main() {
     }
 
     for(int index = 0; index < 10; index++) {
-        std::cout << "vet[" << vet[0 + index] << "] - " << 0 + index << " E "; 
-        std::cout << "vet[" << vet[20 - index] <<"] - " << 20 - index << '\n'; 
+        std::swap(vet[0 + index], vet[19 - index]);
     }
 
     for(int index = 0; index < 20; index++){
-        std::cout << vet[index] << '\n';
+        std::cout << "N[" << index << "] = " << vet[index] << '\n';
     }
 }
