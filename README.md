@@ -14,6 +14,7 @@ Programação I é uma disciplina com foco em programação na linguagem `C++` e
 * Tipos compostos, Tipos recursivos;
 * Gerenciamento de memória, Modularização de Programas, Depuração e Profiling;
 * Aplicações em estruturas e algoritmos presentes em EDB1.
+
 O conteúdo da aula é dado de forma expositva e com aulas interativas. O método de avaliação na disciplina é baseada em **projetos** implementados em `C++`, onde os discentes são motivados a conhecer os compontenes da linguagem necessários para resolver a aplicação requisitada. 
 ## Utilização
 1. Clone o respositório.
