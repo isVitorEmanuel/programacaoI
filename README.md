@@ -24,6 +24,7 @@ O conteúdo da aula é dado de forma expositva e com aulas interativas. O métod
 A disciplina foi dividida em 3 unidades, onde cada uma tem seu diretório. Em cada diretório estão disponíveis os projetos que foram desenvolvidos durante a disciplina.
 * 1ª Unidade - `01-unidade`
   * `basic-exercice-list`:
+    
     Consiste na resoluções de exerícios básico da plataforma `beecrowd`. Tem como objetivo fazer os alunos a se acostumarem com a sintaxe do `C++` e terem o primeiro contato a biblioteca 
     `STL`.
 * 2ª Unidade - `02-unidade`
