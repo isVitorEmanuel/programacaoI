@@ -30,5 +30,4 @@ A disciplina foi dividida em 3 unidades, onde cada uma tem seu diretório. Em ca
 * 2ª Unidade - `02-unidade`
 * 3ª Unidade - `03-unidade`
   
-Todas as questões realizadas possuem um enunciado em `.md`, cada enunciado está disponível nos diretórios `Enunciados`. Além disso, não disponibilizei os `.exec` dos arquivos por questões de organização.
 > É isso, FIM!
